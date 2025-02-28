@@ -1,2 +1,2 @@
-# gammarw-portfolio
+# Portfolio
 Static web portfolio

@@ -141,12 +141,12 @@ div.sub {
 }
 
 .item img {
-    width: 300px;
+    width: 280px;
 }
 
-.item img:hover {
-    width: 310px;
-}
+/* .item img:hover {
+    width: 300px;
+} */
 
 aside {
     flex: 1.5;
